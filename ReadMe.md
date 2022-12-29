@@ -29,3 +29,5 @@ node ./src/scripts/image-adjustment.js  [--height=500, --width=500]
 
 
 Please refer postman collection for crud API's.
+
+
